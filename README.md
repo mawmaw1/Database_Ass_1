@@ -3,6 +3,7 @@
 # An extremely simple db...
 ### Documentation
 Two files are used for this system. One to keep a record of all DB-entries. The other is used to instantiate a hashmap, to keep track of the DB-entries byte-offset.
+Don't search for keys that doesn't exist.
 
 #### How-to
 
