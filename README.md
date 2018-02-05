@@ -25,4 +25,3 @@ To read a DB entry:
 
 This will console.log the value of the key.
 
-### Documentation
