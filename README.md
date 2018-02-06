@@ -14,11 +14,11 @@ Don't search for keys that doesn't exist.
 
 To write a new DB entry:
 
-```> node app key value```
+```> node app write key value```
 
 For example: 
 
-```> node app 669 "Kristian er elendig til foos"```
+```> node app write 669 "Kristian er elendig til foos"```
 
 To read a DB entry:
 
